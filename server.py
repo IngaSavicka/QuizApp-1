@@ -5,7 +5,7 @@ from flask import render_template
 app = Flask(__name__)
 
 def loadAllPictures():
-  filepath = 'picDB.txt'
+  filepath = 'picDb.txt'
   pictures=[]
   with open(filepath) as fp:
     line = fp.readline()
