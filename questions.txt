@@ -1,3 +1,5 @@
-;Jautājums:Atbilde1-Atbilde2-Atbilde4
 ;Kura parole ir visdrošākā:12345-qruty19475-vanja334-2022
-;
+;No kuras ierīces parasti tiek izdzēsta tajā informācija pēc datora izslēgšanas:Zibatmiņas-Lasāmtermiņas- pBrīvpiekļuves atmiņas-Cietā diska
+;Četrām atmiņas ierīcēm ir noteikts brīvas vietas apjoms. Kurā no tām var ierakstīt visvairāk informācijas: p1 terabaits-100 gigabaiti- 10000 megabaiti- 1000000 kilobaiti
+;Kuru ierīci var izmantot drukāta dokumenta satura pārveidošanai digitālā formā: Peli-Printeri-pSkeneri-Skārienekrānu
+;Kura lietotnes loga josla sniedz īsas ziņas par tās iestatījumiem un darbību-Virsrakstjosla-Izvēlņu josla-Lente-pStāvikļa josla
