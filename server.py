@@ -2,7 +2,7 @@ from flask import Flask
 from flask import request
 from flask import render_template
 
-app = Flask(_name_)
+app = Flask(__name__)
 
 def loadAllPictures():
   filepath = 'picDB.txt'
@@ -39,5 +39,5 @@ def test():
 def health():
   return "Viss kārtībā!"
 
-if _name_ == '_main_':
+if __name__ == '_main_':
   app.run(debug="true")
