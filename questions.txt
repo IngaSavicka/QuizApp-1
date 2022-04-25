@@ -2,4 +2,11 @@
 ;No kuras ierīces parasti tiek izdzēsta tajā informācija pēc datora izslēgšanas:Zibatmiņas-Lasāmtermiņas- pBrīvpiekļuves atmiņas-Cietā diska
 ;Četrām atmiņas ierīcēm ir noteikts brīvas vietas apjoms. Kurā no tām var ierakstīt visvairāk informācijas: p1 terabaits-100 gigabaiti- 10000 megabaiti- 1000000 kilobaiti
 ;Kuru ierīci var izmantot drukāta dokumenta satura pārveidošanai digitālā formā: Peli-Printeri-pSkeneri-Skārienekrānu
-;Kura lietotnes loga josla sniedz īsas ziņas par tās iestatījumiem un darbību-Virsrakstjosla-Izvēlņu josla-Lente-pStāvikļa josla
+;Kura lietotnes loga josla sniedz īsas ziņas par tās iestatījumiem un darbību:Virsrakstjosla-Izvēlņu josla-Lente-pStāvikļa josla
+;Kā sauc datora pieslēgvietu, pie kuras parasti pievieno zibatmiņu?:Seriālā pieslēgvieta-Paralēlā pieslēgvieta-pUSB pieslēgvieta-Spēļu pieslēgvieta
+;Kas no uzskaitītā ir datora ievadierīce?:pIrbulis-Diskdzinis-Skaļrunis-Modems
+;Kas ir saīsne jeb īsinājumikona?:pSaite uz kādu datora resursu, kas redzama kā ikona-Datne, kurai veikta saspiešana jeb arhivēšana-Kontekstizvēlne, kas atveras, izpildot klikšķi ar peles labo pogu-Taustiņu kombinācija, kas ar vairāku taustiņu vienlaicīgu piespiešanu nodrošina kādas komandas izpildi
+;Ko nozīmē „datņu saspiešana”?:Datņu dublējumkopiju dzēšana no nomaināmajām ārējām atmiņas ierīcēm-Datņu dzēšana, neievietojot tās atkritnē-pDatņu uzglabāšanai nepieciešamās atmiņas samazināšana-Pagaidu datņu (interneta, instalēšanas u.c.) dzēšana no datora cietā diska
+;Kurā no variantiem minēti tikai audio un video datņu nosaukumu paplašinājumi?:COM, EXE, WAV un F4V-HTML, PDF, XML un TMP- JPEG, WMF, TIFF un AVI- pWAV, AVI, MP3 un MPEG
+;Ko datorgrafikā apzīmē ar GIF?:Vektorgrafikas datnes formātu-pRastrgrafikas datnes formātu-Krāsu dziļuma mērvienību-Krāsu modeli
+;Kas ir pikselis?:Digitālā attēla izšķirtspējas mērvienība-Krāsu attēlošanas metode datorgrafikā-pRastrgrafikas attēla vismazākais elements-Virzīts līnijas segments datorgrafikā
